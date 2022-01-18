@@ -35,3 +35,32 @@ TARGET:
 
 HeartDisease: output class [1: heart disease, 0: Normal]
 
+# Problem at hand:
+Based on the data and data dictionary, We have a classification problem.
+
+We wil make classification on the target variable Heart Disease
+
+And we will build a model to get best calssification possible on the target variable.
+
+For that we will look at the balance of the target variable.
+
+# Conclusion
+We have developed model to classifiy heart disease cases.
+
+First, we made the detailed exploratory analysis.
+
+We have decided which metric to use.
+
+We analyzed both target and features in detail.
+
+We transform categorical variables into numeric so we can use them in the model.
+
+# Models Developed:
+
+Logistic Regression:  Model Accuracy is:84.24
+                      
+                      Recall Score is:81.31
+                      
+Random Forest Classifier: Model Accuracy is:88.04
+                          
+                          Recall Score is:87.85                    
