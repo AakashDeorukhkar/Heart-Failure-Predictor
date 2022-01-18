@@ -64,3 +64,6 @@ Logistic Regression:  Model Accuracy is:84.24
 Random Forest Classifier: Model Accuracy is:88.04
                           
                           Recall Score is:87.85                    
+KNN(k-Nearest Neighbour Classification):Model Accuracy is:86.41%
+                                        Recall Score is:82.24%  
+                                          
